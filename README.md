@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there! I am Mauricio Villavicencio</h1>
+<h3 align="center">A Computer Science student and teaching assistant at the University of Minnesota.</h3>
 
-<!--
-**maurilaparva/maurilaparva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: **C, C++, and OCaml**
 
-Here are some ideas to get you started:
+- 💬 Pronouns: **He/Him/His**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫Reach out to me! **villaz.mauricio@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mauricio-villavicencio-aa95ab247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauricio-villavicencio-aa95ab247/" height="30" width="40" /></a>
+</p>
