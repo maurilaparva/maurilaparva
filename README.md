@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! I am Mauricio Villavicencio</h1>
 <h3 align="center">A Computer Science student and teaching assistant at the University of Minnesota.</h3>
 
-- 🌱 I’m currently learning: **C, C++, and OCaml**
-
-- 💬 Pronouns: **He/Him/His**
+- 🌱 Currently learning: **C++, PyTorch**
 
 - 📫Reach out to me! **villaz.mauricio@gmail.com**
 
