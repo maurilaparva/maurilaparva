@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I am Mauricio Villavicencio</h1>
-<h3 align="center">A Computer Science student and teaching assistant at the University of Minnesota.</h3>
+<h3 align="center">A Computer Science student and research assistant at the University of Minnesota.</h3>
 
 - 🌱 Currently learning: **C++, PyTorch**
 
