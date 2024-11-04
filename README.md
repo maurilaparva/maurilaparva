@@ -1,9 +1,7 @@
-<h1 align="center">Hi there! I am Mauricio Villavicencio</h1>
+<h1 align="center">Mauricio Villavicencio</h1>
 <h3 align="center">Computer Science student and research assistant at the University of Minnesota.</h3>
 
-- 🌱 Currently learning: **C++, PyTorch**
-
-- 📫Reach out to me! **villaz.mauricio@gmail.com**
+- 📫Contact me at **villa669@umn.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
