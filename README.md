@@ -26,7 +26,7 @@
   <h3 align="left"> 
     See More: 
     </h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker" title="Github Stats" alt="Github Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurilaparva" title="Github Stats" alt="Github Stats">
   
 ## 🎓 Education
 
