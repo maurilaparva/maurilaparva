@@ -85,7 +85,7 @@ Collaborative computer vision project providing navigational assistance for blin
 ---
 
 ### 🩺 Diabetic Retinopathy Severity Classification  
-**Repo:** _coming soon_  
+**Repo:** [Diabetic Retinopathy Classification](https://github.com/maurilaparva/diabetic_retinopathy_classification)
 Deep learning pipeline classifying diabetic retinopathy severity from retinal images using ResNet-50.  
 **Concepts used:** Transfer Learning, Medical Imaging, PyTorch, Image Preprocessing, AUC Evaluation.
 
