@@ -4,3 +4,9 @@ Hi! My name is Mauricio Villavicencio and I'm currently pursuing my master's deg
 
 ## Research Interests
 - Research Interests: Explainable AI, ML in High-Stake Domains (Healthcare, Finance, Law), Human Computer-Interaction
+
+## Skills
+- Languages: Python, TypeScript, JavaScript, C++, SQL
+- ML/AI: PyTorch, TensorFlow, scikit-learn, NumPy, pandas, Apache Spark, Hugging Face, LangChain, vLLM
+- Web: React, Next.js, Node.js, Flask, Neo4j, HTML/CSS
+- Tools: Git/GitHub, Docker, Conda, Linux, Unix, Vim, GCP, AWS, GitHub Actions, Bash, Agile Methodologies
