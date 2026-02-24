@@ -2,8 +2,6 @@
 
 I'm currently an MS student at the University of Minnesota in the Visual Intelligence Lab, where I recently completed my BS in Computer Science as well.
 
-I also recently graduated with my BS in Computer Science at the University of Minnesota!
-
 My research examines human-AI interaction through the lens of visualization. I'm interested in questions like: How do we foster appropriate reliance on AI systems? How can we ground AI outputs in factual information, and when we can't, how do we effectively communicate uncertainty to users?"
 
 I'm also passionate about biomedical AI, which serves as a natural testbed for my research questions and solutions.
