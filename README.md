@@ -1,6 +1,6 @@
 ### Hi there, I'm Mauricio 👋
 
-I'm currently an MS student at the University of Minnesota in the Visual Intelligence Lab, where I recently completed my BS in Computer Science as well.
+I'm currently a PhD student at the University of Maryland in the FigX Lab.
 
 
 
